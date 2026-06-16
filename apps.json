@@ -1,0 +1,29 @@
+{
+  "name": "Wireless Display (Taichi)",
+  "identifier": "com.wirelessdisplay.source",
+  "subtitle": "Use your iPhone or iPad as a wireless Mac display",
+  "apps": [
+    {
+      "name": "Wireless Display",
+      "bundleIdentifier": "com.wirelessdisplay.client",
+      "developerName": "Taichi Kagawa",
+      "subtitle": "Wireless extended display for your Mac",
+      "localizedDescription": "Turn your iPhone or iPad into a wireless extended display for your Mac over Wi-Fi (a from-scratch Duet/Luna-style app). Run the macOS sender, then connect from here. Alpha software.",
+      "iconURL": "https://raw.githubusercontent.com/ktaichi326/WirelessDisplay-releases/main/icon.png",
+      "tintColor": "1C73F2",
+      "category": "utilities",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "0.6.0",
+          "date": "2026-06-16",
+          "localizedDescription": "Alpha: wireless extended display, per-device aspect + rotation, live settings (fps/quality), stall-recovery reconnection, peer-to-peer (works on Wi-Fi with client isolation).",
+          "downloadURL": "https://github.com/ktaichi326/WirelessDisplay-releases/releases/download/v0.6.0/WirelessDisplayClient-v0.6.0.ipa",
+          "size": 108442,
+          "minOSVersion": "26.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
