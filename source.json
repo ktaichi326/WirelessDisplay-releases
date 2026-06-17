@@ -13,12 +13,20 @@
       "tintColor": "1C73F2",
       "category": "utilities",
       "screenshotURLs": [],
-      "version": "1.1",
+      "version": "1.2",
       "versionDate": "2026-06-17",
-      "versionDescription": "Disconnect screen is now readable (dims the frozen frame); 3-finger tap shows/hides the HUD; works on Wi-Fi with client isolation (peer-to-peer).",
-      "downloadURL": "https://github.com/ktaichi326/WirelessDisplay-releases/releases/download/v1.1/WirelessDisplayClient-1.1.ipa",
-      "size": 110299,
+      "versionDescription": "Big smoothness fix: packet-loss redundancy so frames/keyframes survive lossy Wi-Fi; the receiver no longer re-shows frames. Plus disconnect screen dimming and 3-finger HUD toggle.",
+      "downloadURL": "https://github.com/ktaichi326/WirelessDisplay-releases/releases/download/v1.2/WirelessDisplayClient-1.2.ipa",
+      "size": 110337,
       "versions": [
+        {
+          "version": "1.2",
+          "date": "2026-06-17",
+          "localizedDescription": "Big smoothness fix: packet-loss redundancy so frames/keyframes survive lossy Wi-Fi; the receiver no longer re-shows frames. Plus disconnect screen dimming and 3-finger HUD toggle.",
+          "downloadURL": "https://github.com/ktaichi326/WirelessDisplay-releases/releases/download/v1.2/WirelessDisplayClient-1.2.ipa",
+          "size": 110337,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "1.1",
           "date": "2026-06-17",
