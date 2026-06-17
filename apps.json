@@ -15,7 +15,7 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "0.6.0",
+          "version": "1.0",
           "date": "2026-06-16",
           "localizedDescription": "Alpha: wireless extended display, per-device aspect + rotation, live settings (fps/quality), stall-recovery reconnection, peer-to-peer (works on Wi-Fi with client isolation).",
           "downloadURL": "https://github.com/ktaichi326/WirelessDisplay-releases/releases/download/v0.6.0/WirelessDisplayClient-v0.6.0.ipa",
