@@ -13,11 +13,16 @@
       "tintColor": "1C73F2",
       "category": "utilities",
       "screenshotURLs": [],
+      "version": "1.0",
+      "versionDate": "2026-06-16",
+      "versionDescription": "Alpha: wireless extended display, per-device aspect + rotation, live settings, reconnection recovery, peer-to-peer (works on isolated Wi-Fi).",
+      "downloadURL": "https://github.com/ktaichi326/WirelessDisplay-releases/releases/download/v0.6.0/WirelessDisplayClient-v0.6.0.ipa",
+      "size": 108442,
       "versions": [
         {
           "version": "1.0",
           "date": "2026-06-16",
-          "localizedDescription": "Alpha: wireless extended display, per-device aspect + rotation, live settings (fps/quality), stall-recovery reconnection, peer-to-peer (works on Wi-Fi with client isolation).",
+          "localizedDescription": "Alpha: wireless extended display, per-device aspect + rotation, live settings, reconnection recovery, peer-to-peer (works on isolated Wi-Fi).",
           "downloadURL": "https://github.com/ktaichi326/WirelessDisplay-releases/releases/download/v0.6.0/WirelessDisplayClient-v0.6.0.ipa",
           "size": 108442,
           "minOSVersion": "26.0"
