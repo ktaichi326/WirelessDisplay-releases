@@ -13,12 +13,20 @@
       "tintColor": "1C73F2",
       "category": "utilities",
       "screenshotURLs": [],
-      "version": "1.3",
+      "version": "1.4",
       "versionDate": "2026-06-17",
-      "versionDescription": "New app icon. Packet-loss redundancy for smoother playback on lossy/isolated Wi-Fi. Disconnect screen dimming + 3-finger HUD toggle.",
-      "downloadURL": "https://github.com/ktaichi326/WirelessDisplay-releases/releases/download/v1.3/WirelessDisplayClient-1.3.ipa",
-      "size": 723323,
+      "versionDescription": "Much lower latency: removed an internal video buffer and switched to immediate decode. Plus the loss-recovery from 1.3 for fewer dropped frames.",
+      "downloadURL": "https://github.com/ktaichi326/WirelessDisplay-releases/releases/download/v1.4/WirelessDisplayClient-1.4.ipa",
+      "size": 719797,
       "versions": [
+        {
+          "version": "1.4",
+          "date": "2026-06-17",
+          "localizedDescription": "Much lower latency: removed an internal video buffer and switched to immediate decode. Plus the loss-recovery from 1.3 for fewer dropped frames.",
+          "downloadURL": "https://github.com/ktaichi326/WirelessDisplay-releases/releases/download/v1.4/WirelessDisplayClient-1.4.ipa",
+          "size": 719797,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "1.3",
           "date": "2026-06-17",
