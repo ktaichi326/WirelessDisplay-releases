@@ -13,12 +13,20 @@
       "tintColor": "1C73F2",
       "category": "utilities",
       "screenshotURLs": [],
-      "version": "1.4",
-      "versionDate": "2026-06-17",
-      "versionDescription": "Much lower latency: removed an internal video buffer and switched to immediate decode. Plus the loss-recovery from 1.3 for fewer dropped frames.",
-      "downloadURL": "https://github.com/ktaichi326/WirelessDisplay-releases/releases/download/v1.4/WirelessDisplayClient-1.4.ipa",
-      "size": 719797,
+      "version": "1.5",
+      "versionDate": "2026-07-16",
+      "versionDescription": "Major smoothness/latency overhaul: instant recovery from lost frames (no more multi-second corruption/freezes), reorder-tolerant receiving, lower-latency decode path, keyframe protection.",
+      "downloadURL": "https://github.com/ktaichi326/WirelessDisplay-releases/releases/download/v1.5/WirelessDisplayClient-1.5.ipa",
+      "size": 720572,
       "versions": [
+        {
+          "version": "1.5",
+          "date": "2026-07-16",
+          "localizedDescription": "Major smoothness/latency overhaul: instant recovery from lost frames (no more multi-second corruption/freezes), reorder-tolerant receiving, lower-latency decode path, keyframe protection.",
+          "downloadURL": "https://github.com/ktaichi326/WirelessDisplay-releases/releases/download/v1.5/WirelessDisplayClient-1.5.ipa",
+          "size": 720572,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "1.4",
           "date": "2026-06-17",
